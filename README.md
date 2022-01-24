@@ -65,9 +65,8 @@ For details on data dictionary, https://www1.nyc.gov/assets/finance/downloads/pd
 - Iterate : We will iterate the process for various model with different values of model parameter to choose the best model for our test data, to make better predictions.
 
 - Trello Planning Board
-![Getting Started](trello.png)
-
-![alternative text](trello.png "Trellp Planning Board")
+![Getting Started](./images/trello.png)
+![Getting Started](images/trello.png)
 
 
 ### Acquire
