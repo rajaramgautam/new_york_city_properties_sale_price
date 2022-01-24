@@ -16,7 +16,9 @@ Rajaram Gautam - January 24, 2022 - Submitted To: Codeup Data Science Team
 
 After modeling the New York City Property data using five features (Age, Total Units, Land Square Feet, and Gross Square Feet), the Polynomial Model with degree 2 produced the best results with RMSE values of 285585, 283355 and 284915 for train, validate and test dataset. 
 
-It is improvement by 10.78% over the baseline model (when comparing training data set). It was improved by 11.49 % for validate datadet. Therefore, these models do show that they could be used to produce a prediction for home values; however, the error is still high at over $284915 RSME. I would recommed further cleaning data for a reliable predictor for sale price in order to use this model.
+After modeling the New York Properties data using five features (Age, Total Units, Land Square Feet, and Gross Square Feet ), the Polynomial Model with degree 2 produced the best results with RMSE values of 261103, 265159 and 262240 for train, validate and test dataset.
+
+It is improvement by 9.40% over the baseline model (when comparing training data set). It was improved by 8.00 % for validate datadet. Therefore, these models do show that they could be used to produce a prediction for home values; however, the error is still high at over $284915 RSME. I would recommed further cleaning data for a reliable predictor for sale price in order to use this model.
 If I have more time, I would clean the dataset for best result possible to reduce RMSE value for my models.
 
 # Deliverables
