@@ -1,3 +1,4 @@
+# Individual Project
 
 # Sale Price Prediction on Properties of New York City based on 12 month period DataSet
 
