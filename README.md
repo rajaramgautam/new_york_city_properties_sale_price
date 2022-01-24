@@ -67,6 +67,8 @@ For details on data dictionary, https://www1.nyc.gov/assets/finance/downloads/pd
 - Trello Planning Board
 ![Getting Started](trello.png)
 
+![alternative text](trello.png "Trellp Planning Board")
+
 
 ### Acquire
 
