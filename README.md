@@ -68,6 +68,8 @@ For details on data dictionary, https://www1.nyc.gov/assets/finance/downloads/pd
 ![Getting Started](./images/trello.png)
 ![Getting Started](images/trello.png)
 
+<img src="/images/trello.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 
 ### Acquire
 
