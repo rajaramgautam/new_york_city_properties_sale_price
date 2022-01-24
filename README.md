@@ -64,12 +64,7 @@ For details on data dictionary, https://www1.nyc.gov/assets/finance/downloads/pd
 - Model : We will use Linear Regression Model like Ordinar Least Squares, LASSO + LARS, Polynomial Regression Generalized Linear Model (TweedieRegressor)
 - Iterate : We will iterate the process for various model with different values of model parameter to choose the best model for our test data, to make better predictions.
 
-- Trello Planning Board
-![Getting Started](./images/trello.png)
-![Getting Started](images/trello.png)
-
-<img src="/images/trello.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
+- Trello Planning Board https://trello.com/b/KyGFyVAq/individual-project
 
 ### Acquire
 
